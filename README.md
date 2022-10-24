@@ -8,7 +8,7 @@ composer.json 设置如下
 ```json
 {
 "require": {
-    "vlinked/utils": "~1.0.0"
+    "vlinked/vlinked-utils": "~1.0.0"
   }
 }
 
@@ -18,7 +18,7 @@ composer.json 设置如下
 或者使用命令行
 
 ```shell
-composer require vlinked/utils
+composer require vlinked/vlinked-utils
 
 ```
 
